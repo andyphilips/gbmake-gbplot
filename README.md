@@ -9,3 +9,7 @@ net install gbmake, from("https://andyphilips.github.io/gbmake-gbplot/") replace
 ```
 
 See website above for details.
+
+## License
+
+MIT. See [LICENSE](LICENSE).

@@ -1,4 +1,4 @@
 v 3
 d gbmake and gbplot: simulate and plot GARCH-type dynamics
-d Andrew Q. Philips, University of Colorado Boulder
+d Andrew Philips, University of Colorado Boulder
 p gbmake gbmake and gbplot
