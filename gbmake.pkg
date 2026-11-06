@@ -1,5 +1,5 @@
 v 3
-d gbmake and gbplot: simulate and plot GARCH-type dynamics
+d gbmake and gbplot: Stata programs for revealing volatility dynamics in ARCH-GARCH models
 d Distribution-Date: 20261105
 f gbmake.ado
 f gbmake.sthlp
