@@ -59,7 +59,7 @@
 
 {pstd}
 Users can find and download the most up-to-date version of {cmd:gbplot} at:
- http://andyphilips.github.io/FOO/.
+ https://andyphilips.github.io/gbmake-gbplot/.
 
 {pstd} 
 {cmd:gbplot} can be used in two main ways (Approach 1 and Approach 2): 

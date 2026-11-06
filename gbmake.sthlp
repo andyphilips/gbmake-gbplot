@@ -45,7 +45,7 @@
 
 {pstd}
 Users can find and download the most up-to-date version of {cmd:gbmake} at:
- http://andyphilips.github.io/FOO/.
+ https://andyphilips.github.io/gbmake-gbplot/.
 
 {pstd} 
 {cmd:gbmake} first requires estimating a GARCH(1,0) or GARCH(1,1) model using {cmd:arch}, with a list of Z regressors in the heteroskedastic variance equation (i.e., {cmd:het()} is specified). By default, the program will then simulate b bootstrap values of each parameter in the heteroskedastic variance equation using a parametric bootstrap. Values are saved in a Stata dataset for future use in {cmd:gbplot}. Instead of the default parametric bootstrap, users can also perform a residual-based bootstrap (see Benton, Jordan and Philips 2026), which is noticeably slower but may increase precision of predictions. For both, the program warns (but does not remove) bootstrap simulations where ARCH/GARCH terms fall outside logical bounds (e.g., < 0).
