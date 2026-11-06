@@ -1,0 +1,7 @@
+v 3
+d gbmake and gbplot: simulate and plot GARCH-type dynamics
+d Distribution-Date: 20261105
+f gbmake.ado
+f gbmake.sthlp
+f gbplot.ado
+f gbplot.sthlp
