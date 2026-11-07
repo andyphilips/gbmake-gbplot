@@ -15,4 +15,6 @@ See website above for details.
 MIT. See [LICENSE](LICENSE).
 
 
-## Code and data to replicate Stata Journal article at https://doi.org/10.7910/DVN/GF3HT9
+## Other resources
+
+Code and data to replicate Stata Journal article at https://doi.org/10.7910/DVN/GF3HT9
