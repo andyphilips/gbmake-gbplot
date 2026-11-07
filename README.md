@@ -13,3 +13,6 @@ See website above for details.
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+
+## Code and data to replicate Stata Journal article at https://doi.org/10.7910/DVN/GF3HT9
